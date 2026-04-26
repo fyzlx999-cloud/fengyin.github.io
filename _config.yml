@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lexing Zhang(le hsing chang)"
+title                    : "Yin Feng"
 description              : "Master Student"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lexing Zhang(le hsing chang)"
+  name             : "Yin Feng"
   avatar           : "images/myphoto.png"
-  bio              : "University of Minnesota"
-  location         : "Minneapolis, Minnesota"
+  bio              : "Beijing Jiaotong University"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=wNdqZB0AAAAJ"
-  email            : "lesingzhang@gmail.com"
+  googlescholar    : 
+  email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
