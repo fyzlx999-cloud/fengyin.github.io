@@ -51,9 +51,6 @@ Please find my CV [here](../docs/Yin_Feng_CV.pdf "Yin Feng's CV"){:target="_blan
    *Time-aware MPC Scheduling for Mobile Charging Vehicles with Fixed Charging Stations.*  
    Transportation Research Part C: Emerging Technologies. Under review.
 
-4. Lexing Zhang, **Yin Feng**, Rongsheng Chen, Qi Ai, Michael Levin.  
-   *Time-aware MPC Scheduling for Mobile Charging Vehicles with Fixed Charging Stations.*  
-   Transportation Research Part C: Emerging Technologies. Under review.
 <span class='anchor' id='-research'></span>
 
 # Research Experience
