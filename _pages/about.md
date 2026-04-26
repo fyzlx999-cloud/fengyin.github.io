@@ -51,7 +51,7 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
    *Time-aware MPC Scheduling for Mobile Charging Vehicles with Fixed Charging Stations.*  
    Transportation Research Part C: Emerging Technologies. Under review.
 
-4. Tian Xu, Lexing Zhang, Jiale Lei, **Yin Feng**, Wenxuan Wang, Yinen ge.
+4. Tian Xu, Lexing Zhang, Jiale Lei, **Yin Feng**, Wenxuan Wang, Yinen ge.  
    *trajectory-level acceleration prediction at tunnel exits: a dual-input seq2seq framework incorporating environmental and individual driving behavior.*
    International Journal of Automotive Technology. Under review.
 
