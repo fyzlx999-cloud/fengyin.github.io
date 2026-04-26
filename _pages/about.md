@@ -16,7 +16,7 @@ I am a graduate student in Transportation Planning and Management at Beijing Jia
 
 My research interests focus on transportation systems, traffic control, electric vehicle charging infrastructure, optimization, machine learning, and driver behavior modeling.
 
-Please find my CV [here](docs/Yin_Feng_CV.pdf "Yin Feng's CV"){:target="_blank"}.
+Please find my CV [here](../docs/Yin_Feng_CV.pdf "Yin Feng's CV"){:target="_blank"}.
 
 **Research Interests:**
 - Transportation planning and management
