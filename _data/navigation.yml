@@ -1,13 +1,13 @@
-# main links links
 main:
   - title: "About Me"
-    url: "/#-am"
-
+    url: "/#welcome-to-yin-fengs-homepage"
   - title: "Education"
-    url: "/#-xl"
-
+    url: "/#education"
   - title: "Publications"
-    url: "/#-pub"
-
-  - title: "Web Tracker"
-    url: "/#-Tracker"
+    url: "/#publications"
+  - title: "Research Experience"
+    url: "/#research-experience"
+  - title: "Awards"
+    url: "/#awards"
+  - title: "Skills"
+    url: "/#skills"
