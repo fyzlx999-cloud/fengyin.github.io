@@ -1,18 +1,18 @@
 main:
   - title: "About Me"
-    url: "/#welcome-to-yin-fengs-homepage"
+    url: "/#-am"
 
   - title: "Education"
-    url: "/#education"
+    url: "/#-edu"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/#-pub"
 
   - title: "Research Experience"
-    url: "/#research-experience"
+    url: "/#-research"
 
   - title: "Awards"
-    url: "/#awards"
+    url: "/#-awards"
 
   - title: "Skills"
-    url: "/#skills"
+    url: "/#-skills"
