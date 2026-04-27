@@ -63,7 +63,7 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
 
 ### Optimization of Electric Vehicle Charging Station Layout Considering Mobile Charging Vehicles
 
-*Research Project | Xi'an, China | 2025--Present*
+*Research Project | Xi'an, China | 2025&ndash;Present*
 
 - Developed a welfare-oriented MILP framework for hybrid EV charging infrastructure planning, jointly optimizing FCS locations, charging-pile capacities, MCV fleet size, and multi-period service allocation.
 - Estimated spatially heterogeneous charging demand from urban POI data using kernel density estimation, and screened candidate FCS locations based on service-blind-zone analysis.
