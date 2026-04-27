@@ -6,12 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yin Feng"
-description              : "Master Student"
+title: "Yin Feng"
+description: "Master Student"
 url: "https://fyzlx999-cloud.github.io"
 baseurl: "/fengyin.github.io"
 repository: "fyzlx999-cloud/fengyin.github.io"
-google_scholar_stats_use_cdn : true
+
+google_scholar_stats_use_cdn: true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
