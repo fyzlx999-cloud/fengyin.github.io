@@ -8,7 +8,9 @@
 # Site Settings
 title                    : "Yin Feng"
 description              : "Master Student"
-repository               : "RayeRen/acad-homepage.github.io"
+url: "https://fyzlx999-cloud.github.io"
+baseurl: "/fengyin.github.io"
+repository: "fyzlx999-cloud/fengyin.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
