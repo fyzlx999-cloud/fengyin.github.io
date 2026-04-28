@@ -32,10 +32,8 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
 
 - *2025.09 - 2028.06 (expected)*, Beijing Jiaotong University, School of Traffic and Transportation, Transportation Planning and Management, Current Student
   - GPA first semester: 88.76/100
-  - Core courses: Modern Freight Transportation Technology (100); Spatial Information Processing Methods and Technologies (93); Intelligent Transportation Systems Design and Integration (91); Urban Traffic Analysis and Control (90).
 - *2021.09 - 2025.06*, Chang'an University, School of Transportation Engineering, B.Eng. in Transportation
   - GPA: 88.10/100
-  - Core courses: Transportation Engineering Theory (96); Carriage of Dangerous Goods (95); Fundamentals of College Computer (94); GIS (Geographic Information System) (bilingual) (92); Traffic Safety Engineering(92); Engineering Mechanics (91); Automotive Operation Engineering (91); Operations Research (90).
 
 <span class='anchor' id='-pub'></span>
 
@@ -47,7 +45,7 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
 
 2. **Yin Feng**, Enjian Yao, Rui Zhang, Rongsheng Chen, Lexing Zhang.  
    *Optimization of Electric Vehicle Charging Station Layout Considering Mobile Charging Vehicles.*  
-   Transportation Research Part D: Transport and Environment. Under minor review.
+   Transportation Research Part D: Transport and Environment. Minor revision.
 
 3. Lexing Zhang, **Yin Feng**, Rongsheng Chen, Qi Ai, Michael Levin.  
    *Time-aware MPC Scheduling for Mobile Charging Vehicles with Fixed Charging Stations.*  
@@ -63,7 +61,7 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
 
 ### Optimization of Electric Vehicle Charging Station Layout Considering Mobile Charging Vehicles
 
-*Research Project | Xi'an, China | 2025&ndash;Present*
+*Project Leader | Xi'an, China | 2025&ndash;Present*
 
 - Developed a welfare-oriented MILP framework for hybrid EV charging infrastructure planning, jointly optimizing FCS locations, charging-pile capacities, MCV fleet size, and multi-period service allocation.
 - Estimated spatially heterogeneous charging demand from urban POI data using kernel density estimation, and screened candidate FCS locations based on service-blind-zone analysis.
@@ -103,6 +101,6 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
 
 # Skills
 
-- **Software:** SPSS, MATLAB, Visio, VISSIM, AutoCAD, Origin
+- **Software:** SPSS, Visio, VISSIM, AutoCAD, Origin
 - **Programming and data:** Python, basic machine learning algorithms, basic data processing
 - **English proficiency:** IELTS 6.5, CET-4 468, CET-6 455
