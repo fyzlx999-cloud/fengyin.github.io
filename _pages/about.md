@@ -52,7 +52,7 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
    Transportation Research Part C: Emerging Technologies. Under review.
 
 4. Tian Xu, Lexing Zhang, Jiale Lei, **Yin Feng**, Wenxuan Wang, Yinen Ge.  
-   *Trajectory-level Acceleration Prediction at Tunnel Exits: A Dual-input Seq2Seq Framework Incorporating Environmental and Individual Driving Behavior.*
+   *Trajectory-level Acceleration Prediction at Tunnel Exits: A Dual-Input Seq2Seq Framework Incorporating Environmental and Individual Driving Behavior.*
    International Journal of Automotive Technology. Under review.
 
 <span class='anchor' id='-research'></span>
