@@ -103,4 +103,4 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
 
 - **Software:** SPSS, Visio, VISSIM, AutoCAD, Origin
 - **Programming and data:** Python, basic machine learning algorithms, basic data processing
-- **English proficiency:** IELTS 6.5, CET-4 468, CET-6 455
+- **English proficiency:** CET-4 468, CET-6 455
