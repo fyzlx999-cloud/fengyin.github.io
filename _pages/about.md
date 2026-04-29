@@ -63,7 +63,7 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
 
 *Project Leader | Xi'an, China | 2025&ndash;Present*
 
-- Developed a welfare-oriented MILP framework for hybrid EV charging infrastructure planning, jointly optimizing FCS locations, charging-pile capacities, MCV fleet size, and multi-period service allocation.
+- Developed a welfare-oriented MILP model for hybrid EV charging infrastructure planning, jointly optimizing FCS locations, charging-pile capacities, MCV fleet size, and multi-period service allocation.
 - Estimated spatially heterogeneous charging demand from urban POI data using kernel density estimation, and screened candidate FCS locations based on underserved-area analysis.
 - Incorporated demand balance, station capacity, MCV dispatch feasibility, inter-period inventory conservation, and minimum zone-level service requirements into the optimization model.
 - Conducted a real district-level case study in Xi'an to compare fixed-only, mobile-only, and hybrid fixed-mobile schemes in terms of service coverage, unmet demand, user burden, and net social welfare.
