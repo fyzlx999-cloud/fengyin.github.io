@@ -83,7 +83,7 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
 
 ### Competitions
 
-- Meritorious Winner, 2024 American Collegiate Mathematical Modeling Contest, Mar. 2024
+- Meritorious Winner, Mathematical Contest in Modeling (MCM), Mar. 2024
 - Provincial 1st Prize, The 1st Shaanxi Provincial College Students Transportation Technology Competition, Apr. 2023
 - Provincial 2nd Prize, The 1st Shaanxi Provincial College Students Transportation Technology Competition, Apr. 2024
 - Provincial 3rd Prize, The 3rd Shaanxi Provincial College Students Transportation Technology Competition, Apr. 2024
