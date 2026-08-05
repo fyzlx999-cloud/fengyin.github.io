@@ -47,11 +47,7 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
    *Free-Flow Tolling System for Expressway with Fusion of 5G Communication and High-Precision Positioning Technology.*  
    The 4th International Conference on Smart City Engineering and Public Transportation (SCEPT 2024). Accepted.
 
-4. Lexing Zhang, **Yin Feng**, Rongsheng Chen, Qi Ai, Michael Levin.  
-   *Time-aware MPC Scheduling for Mobile Charging Vehicles with Fixed Charging Stations.*  
-   Transportation Research Part C: Emerging Technologies. Under review.
-
-5. Tian Xu, Lexing Zhang, Jiale Lei, **Yin Feng**, Wenxuan Wang, Yinen Ge.  
+3. Tian Xu, Lexing Zhang, Jiale Lei, **Yin Feng**, Wenxuan Wang, Yinen Ge.  
    *Trajectory-Level Acceleration Prediction at Tunnel Exits: A Dual-Input Seq2Seq Framework Incorporating Environmental and Individual Driving Behavior.*
    International Journal of Automotive Technology. Under review.
 
@@ -103,4 +99,4 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
 
 - **Software:** SPSS, Visio, VISSIM, AutoCAD, Origin
 - **Programming and data:** Python, basic machine learning algorithms, basic data processing
-- **Languages:** CET-4 468, CET-6 455
+- **Languages:** IELTS:6
