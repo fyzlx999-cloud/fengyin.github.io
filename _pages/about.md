@@ -47,10 +47,6 @@ Please find my CV [here](https://fyzlx999-cloud.github.io/fengyin.github.io/docs
    *Free-Flow Tolling System for Expressway with Fusion of 5G Communication and High-Precision Positioning Technology.*  
    The 4th International Conference on Smart City Engineering and Public Transportation (SCEPT 2024). Accepted.
 
-3. Tian Xu, Lexing Zhang, Jiale Lei, **Yin Feng**, Wenxuan Wang, Yinen Ge.  
-   *Trajectory-Level Acceleration Prediction at Tunnel Exits: A Dual-Input Seq2Seq Framework Incorporating Environmental and Individual Driving Behavior.*
-   International Journal of Automotive Technology. Under review.
-
 <span class='anchor' id='-research'></span>
 
 # Research Experience
